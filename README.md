@@ -5,3 +5,5 @@ You may be familiar with some of my open source work, like [Normalizer](https://
 Or possibly you’ve seen me speak, like at React Europe 2019 about [“Moving fast with confidence”](https://www.youtube.com/watch?v=ikn_dBSski8).
 
 Sometimes I write things down. Hopefully I do that in [my blog](https://paularmstrong.dev/blog) and I’m not too long-winded about it. When I don’t write enough about something, it usually appears on [the bird site](https://twitter.com/paularmstrong).
+
+<a rel="me" href="https://mstdn.io/@paularmstrong"></a>
