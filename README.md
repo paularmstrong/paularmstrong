@@ -8,4 +8,4 @@ Sometimes I write things down. Hopefully I do that in [my blog](https://paularms
 
 What am I working on?
 
-[![oneRepo](https://onerepo.tools/open-graph/index.png)](https://onerepo.tools)
+[![oneRepo - Easy, strict, safe, and fast JavaScript & TypeScript monorepo toolchain for high performance teams.](https://onerepo.tools/open-graph/index.png)](https://onerepo.tools)
